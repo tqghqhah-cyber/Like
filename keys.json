@@ -1,0 +1,10 @@
+{
+  "ALLOWED_KEYS": {
+    "exu": 9999999
+  },
+  "ADMIN_KEYS": [
+    "exu"
+  ],
+  "RESET_TZ": "Asia/Dhaka"
+}
+
